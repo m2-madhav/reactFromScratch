@@ -1,0 +1,19 @@
+{
+  "name": "reactfromscratch",
+  "version": "1.0.0",
+  "description": "This is coding react from scratch",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m2-madhav/reactFromScratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m2-madhav/reactFromScratch/issues"
+  },
+  "homepage": "https://github.com/m2-madhav/reactFromScratch#readme"
+}
