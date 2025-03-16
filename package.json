@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/m2-madhav/reactFromScratch/issues"
   },
-  "homepage": "https://github.com/m2-madhav/reactFromScratch#readme"
+  "homepage": "https://github.com/m2-madhav/reactFromScratch#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserList":[
+    "last 2 version"
+  ]
 }
