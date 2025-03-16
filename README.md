@@ -1,4 +1,4 @@
-# in this repo i am doing coding and learning react from scratch 
+# in this repo i am doing coding and revising concepts of  react from scratch 
 
 # Parcel
 --Dev build 
